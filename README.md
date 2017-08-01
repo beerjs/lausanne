@@ -14,7 +14,7 @@ We are working on the details of our first event that should take place soon, wh
 
 The subject of the event will probably be **JavaScript syntax from the future**. We will be peeking at draft features around a fresh [IPA](https://en.wikipedia.org/wiki/India_pale_ale) :beer:.
 
-Exact location and time will be announced soon. For now, **please watch/star this repo to get updates**, (follow us on Twitter)[https://twitter.com/beerjslausanne], spread the word and relax.
+Exact location and time will be announced soon. For now, **please watch/star this repo to get updates**, [follow us on Twitter](https://twitter.com/beerjslausanne), spread the word and relax.
 
 ## Contribute
 
