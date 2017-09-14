@@ -1,3 +1,5 @@
+**Important**: Before reading any further, please see [issue #1](/../../issues/3)
+
 # BeerJS: Lausanne, Switzerland
 
 Hello and welcome to BeerJS Lausanne! :beers:
