@@ -1,4 +1,4 @@
-**Important**: Before reading any further, please see [issue #1](/../../issues/3)
+**Important**: Before reading any further, please see [issue #1](/../../issues/1)
 
 # BeerJS: Lausanne, Switzerland
 
